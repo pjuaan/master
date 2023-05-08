@@ -1,0 +1,483 @@
+ [
+                        {
+                            "Año": 2018,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2018,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2018,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 6,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2018,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 8,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2018,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 8,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2018,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 10,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2018,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2018,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2018,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Enero",
+                            "Parametro": "2019",
+                            "Valor": 8,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 6,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 7,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 10,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2019,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Enero",
+                            "Parametro": "2020",
+                            "Valor": 8,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 7,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 8,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2020,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 5,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Enero",
+                            "Parametro": "2021",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 7,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 10,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 5,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2021,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 8,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Enero",
+                            "Parametro": "2022",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 5,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 5,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 6,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2022,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 11,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2023,
+                            "Periodo": "Enero",
+                            "Parametro": "2023",
+                            "Valor": 7,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2023,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Año": 2023,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+       

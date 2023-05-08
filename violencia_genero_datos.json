@@ -1,0 +1,193 @@
+﻿{
+    "Url": "www.epdata.es/mujeres-asesinadas-violencia-genero-va-ano/7820a811-618d-4109-97be-f1d2c31313a6/espana/106",
+    "Respuesta": {
+        "Id": "7820a811-618d-4109-97be-f1d2c31313a6",
+        "Url": "www.epdata.es/mujeres-asesinadas-violencia-genero-va-ano/7820a811-618d-4109-97be-f1d2c31313a6/espana/106",
+        "Titulo": "Mujeres asesinadas por violencia de género en lo que va de año",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Víctimas de violencia de género a nivel mensual - Mujeres asesinadas en lo que va de año para total como edad de la víctima, total como edad del agresor, total como relación del agresor con la víctima, total como convivencia con el agresor, total como denuncia interpuesta contra el agresor y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                    "Clasificacion": null,
+                    "Unidad": "Mujeres asesinadas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2003,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 18,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2004,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 13,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2005,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 14,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 22,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 18,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 19,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 11,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 14,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 17,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 12,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 16,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 20,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 9,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 13,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 18,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 7,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 15,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 19,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 6,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 9,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 11,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
